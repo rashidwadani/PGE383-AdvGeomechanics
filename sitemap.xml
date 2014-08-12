@@ -5,31 +5,39 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>/index.html/2014/index.html</loc>
-  <lastmod>2014-07-17</lastmod>
+  <loc>http://johntfoster.github.com/PGE383-AdvGeomechanics/2014/index.html</loc>
+  <lastmod>2014-08-11</lastmod>
  </url>
  <url>
-  <loc>/index.html/archive.html</loc>
-  <lastmod>2014-07-17</lastmod>
+  <loc>http://johntfoster.github.com/PGE383-AdvGeomechanics/archive.html</loc>
+  <lastmod>2014-08-11</lastmod>
  </url>
  <url>
-  <loc>/index.html/categories/index.html</loc>
-  <lastmod>2014-07-17</lastmod>
+  <loc>http://johntfoster.github.com/PGE383-AdvGeomechanics/categories/index.html</loc>
+  <lastmod>2014-08-11</lastmod>
  </url>
  <url>
-  <loc>/index.html/galleries/index.html</loc>
-  <lastmod>2014-07-17</lastmod>
+  <loc>http://johntfoster.github.com/PGE383-AdvGeomechanics/index.html</loc>
+  <lastmod>2014-08-11</lastmod>
  </url>
  <url>
-  <loc>/index.html/index.html</loc>
-  <lastmod>2014-07-17</lastmod>
+  <loc>http://johntfoster.github.com/PGE383-AdvGeomechanics/posts/trying-out-a-blog-post.html</loc>
+  <lastmod>2014-08-11</lastmod>
  </url>
  <url>
-  <loc>/index.html/listings/index.html</loc>
-  <lastmod>2014-07-17</lastmod>
+  <loc>http://johntfoster.github.com/PGE383-AdvGeomechanics/posts/trying-out-a-blog-post/index.html</loc>
+  <lastmod>2014-08-11</lastmod>
  </url>
  <url>
-  <loc>/index.html/posts/trying-out-a-blog-post.html</loc>
-  <lastmod>2014-07-17</lastmod>
+  <loc>http://johntfoster.github.com/PGE383-AdvGeomechanics/stories/syllabus/index.html</loc>
+  <lastmod>2014-08-11</lastmod>
+ </url>
+ <url>
+  <loc>http://johntfoster.github.com/PGE383-AdvGeomechanics/syllabus/index.html</loc>
+  <lastmod>2014-08-11</lastmod>
+ </url>
+ <url>
+  <loc>http://johntfoster.github.com/PGE383-AdvGeomechanics/syllabus/syllabus.html</loc>
+  <lastmod>2014-08-11</lastmod>
  </url>
 </urlset>

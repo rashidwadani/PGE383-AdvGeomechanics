@@ -5,15 +5,11 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>/index.html/galleries/rss.xml</loc>
-  <lastmod>2014-07-17</lastmod>
+  <loc>http://johntfoster.github.com/PGE383-AdvGeomechanics/rss.xml</loc>
+  <lastmod>2014-08-11</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/index.html/rss.xml</loc>
-  <lastmod>2014-07-17</lastmod>
- </sitemap>
- <sitemap>
-  <loc>/index.html/sitemap.xml</loc>
-  <lastmod>2014-07-17</lastmod>
+  <loc>http://johntfoster.github.com/PGE383-AdvGeomechanics/sitemap.xml</loc>
+  <lastmod>2014-08-11</lastmod>
  </sitemap>
 </sitemapindex>
