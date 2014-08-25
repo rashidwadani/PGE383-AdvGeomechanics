@@ -1,2 +1,2 @@
-Sitemap: https://johntfoster.github.com/PGE383-AdvGeomechanics/sitemapindex.xml
+Sitemap: /sitemapindex.xml
 
