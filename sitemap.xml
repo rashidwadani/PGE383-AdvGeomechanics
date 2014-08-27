@@ -6,30 +6,26 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>/2014/index.html</loc>
-  <lastmod>2014-08-25</lastmod>
+  <lastmod>2014-08-27</lastmod>
  </url>
  <url>
   <loc>/archive.html</loc>
-  <lastmod>2014-08-25</lastmod>
+  <lastmod>2014-08-27</lastmod>
  </url>
  <url>
   <loc>/categories/index.html</loc>
-  <lastmod>2014-08-25</lastmod>
- </url>
- <url>
-  <loc>/cv/index.html</loc>
-  <lastmod>2014-08-25</lastmod>
+  <lastmod>2014-08-27</lastmod>
  </url>
  <url>
   <loc>/index.html</loc>
-  <lastmod>2014-08-25</lastmod>
+  <lastmod>2014-08-27</lastmod>
  </url>
  <url>
   <loc>/posts/welcome.html</loc>
-  <lastmod>2014-08-25</lastmod>
+  <lastmod>2014-08-27</lastmod>
  </url>
  <url>
   <loc>/syllabus/index.html</loc>
-  <lastmod>2014-08-25</lastmod>
+  <lastmod>2014-08-27</lastmod>
  </url>
 </urlset>
