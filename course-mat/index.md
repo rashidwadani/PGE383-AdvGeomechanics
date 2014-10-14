@@ -9,11 +9,86 @@ each scheduled lecture period.  This may include PDFs of the final lecture notes
 and any other reference material.
 
 
+### 10/14/2014
+
+[Lecture Notes](/notes/10-14-2014.pdf)
+
+<a href="//www.youtube.com/playlist?list=PLyQr4689RR7A9l8g69yZeGFz1dpWE56G_" target="blank_">Lecture Recording</a>
+
+
+### 10/09/2014
+
+[Lecture Notes](/notes/10-09-2014.pdf)
+
+<a href="//www.youtube.com/playlist?list=PLyQr4689RR7BzeKbMbhPgnZUrUYX1yoDa" target="blank_">Lecture Recording</a>
+
+<a href="http://nbviewer.ipython.org/github/johntfoster/CalculusOfVariationsNotes/blob/master/CalculusOfVariations.ipynb" target="blank_">Calculus of Variations Notes</a>
+
+<a href="http://nbviewer.ipython.org/github/johntfoster/PGE383-AdvGeomechanics/blob/master/files/assignment2_solution.ipynb" target="blank_">Homework Assignment 2 Solution</a>
+
+
+### 10/07/2014
+
+[Lecture Notes](/notes/10-07-2014.pdf)
+
+<a href="//www.youtube.com/playlist?list=PLyQr4689RR7DB8vUfl0nsQM32TJ83ca10" target="blank_">Lecture Recording</a>
+
+[Homework Assignment 3](/files/assignment3.pdf) Due 10/14/2014
+
+
+### 09/30/2014
+
+[Lecture Notes](/notes/09-30-2014.pdf)
+
+<a href="//www.youtube.com/playlist?list=PLyQr4689RR7Cd2GE4cXM4MljUCTCItRUk" target="blank_">Lecture Recording</a>
+
+
+### 09/25/2014
+
+[Lecture Notes](/notes/09-25-2014.pdf)
+
+<a href="//www.youtube.com/playlist?list=PLyQr4689RR7AGQ58AmopO7h-GSfEs04lj" target="blank_">Lecture Recording</a>
+
+
+
+### 09/23/2014
+
+[Lecture Notes](/notes/09-23-2014.pdf)
+
+<a href="//www.youtube.com/playlist?list=PLyQr4689RR7Ak7YsMssg5beGJjyA0shao" target="blank_">Lecture Recording</a>
+
+<a href="http://nbviewer.ipython.org/github/johntfoster/PGE383-AdvGeomechanics/blob/master/files/assignment1_solution.ipynb" target="blank_">Homework Assignment 1 Solution</a>
+
+[Homework Assignment 2](/files/assignment2.pdf) Due 10/07/2014
+
+
+
+### 09/18/2014
+
+[Lecture Notes](/notes/09-18-2014.pdf)
+
+<a href="//www.youtube.com/playlist?list=PLyQr4689RR7A2WmQ9zIunzdKBAn9Oir61" target="blank_">Lecture Recording</a>
+
+
+### 09/16/2014
+
+[Lecture Notes](/notes/09-16-2014.pdf)
+
+<a href="//www.youtube.com/playlist?list=PLyQr4689RR7CqYbRUdJgFuauYJVREXDeC" target="blank_">Lecture Recording</a>
+
+
+### 09/11/2014
+
+[Lecture Notes](/notes/09-11-2014.pdf)
+
+<a href="//www.youtube.com/playlist?list=PLyQr4689RR7DOh-iLo8AJ3AOCtXb13uH4" target="blank_">Lecture Recording</a>
+
+
 ### 09/09/2014
 
 [Lecture Notes](/notes/09-09-2014.pdf)
 
-<!--a href="//www.youtube.com/playlist?list=PLyQr4689RR7ArTKVNPHWl_7CIyoxsE8VJ" target="blank_">Lecture Recording</a-->
+<a href="//www.youtube.com/playlist?list=PLyQr4689RR7ABGvgjpnRgu8CyBn01qjFx" target="blank_">Lecture Recording</a>
 
 [Homework Assignment 1](/files/assignment1.pdf) Due 9/18/2014
 
