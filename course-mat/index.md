@@ -13,7 +13,11 @@ and any other reference material.
 
 [Lecture Notes](/notes/10-14-2014.pdf)
 
+**Note**:  The last two pages of notes where lost in the PDF, but they do appear in the video recording.
+
 <a href="//www.youtube.com/playlist?list=PLyQr4689RR7A9l8g69yZeGFz1dpWE56G_" target="blank_">Lecture Recording</a>
+
+<a href="http://nbviewer.ipython.org/github/johntfoster/PGE383-AdvGeomechanics/blob/master/files/assignment3_solution.ipynb" target="blank_">Homework Assignment 3 Solution</a>
 
 
 ### 10/09/2014
