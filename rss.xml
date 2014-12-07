@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Advanced Geomechanics</title><link>/</link><description>Course webpage</description><atom:link href="/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Sun, 07 Dec 2014 17:01:07 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Assignment 6 Solution posted</title><link>/posts/assignment-6-solution-posted.html</link><dc:creator>John T. Foster</dc:creator><description>&lt;!--
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Advanced Geomechanics</title><link>/</link><description>Course webpage</description><atom:link href="/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Sun, 07 Dec 2014 17:15:46 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Assignment 6 Solution posted</title><link>/posts/assignment-6-solution-posted.html</link><dc:creator>John T. Foster</dc:creator><description>&lt;!--
 .. title: Assignment 6 Solution posted
 .. slug: assignment-6-solution-posted
 .. date: 2014-12-05 17:39:46 UTC-06:00
@@ -9,7 +9,8 @@
 .. type: text
 --&gt;
 
-&lt;p&gt;I've posted a Python implementation for the solution to Homework Assignment #6 to the &lt;a href="/course-mat/"&gt;Course Materials&lt;/a&gt; page. I will try to post a &lt;em&gt;Mathematica&lt;/em&gt; implementation for your to reference before the end of the weekend.&lt;/p&gt;</description><guid>/posts/assignment-6-solution-posted.html</guid><pubDate>Fri, 05 Dec 2014 23:39:46 GMT</pubDate></item><item><title>Final Exam Assigned</title><link>/posts/final-exam-assigned.html</link><dc:creator>John T. Foster</dc:creator><description>&lt;!--
+&lt;p&gt;I've posted a Python implementation for the solution to Homework Assignment #6 to the &lt;a href="/course-mat/"&gt;Course Materials&lt;/a&gt; page. I will try to post a &lt;em&gt;Mathematica&lt;/em&gt; implementation for your to reference before the end of the weekend.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Update 12-7-2014:&lt;/strong&gt; A &lt;em&gt;Mathematica&lt;/em&gt; solution is now available as well, see the &lt;a href="/course-mat/"&gt;Course Materials&lt;/a&gt; page.&lt;/p&gt;</description><guid>/posts/assignment-6-solution-posted.html</guid><pubDate>Fri, 05 Dec 2014 23:39:46 GMT</pubDate></item><item><title>Final Exam Assigned</title><link>/posts/final-exam-assigned.html</link><dc:creator>John T. Foster</dc:creator><description>&lt;!--
 .. title: Final Exam Assigned
 .. slug: final-exam-assigned
 .. date: 2014-12-04 08:00:00 UTC-05:00
